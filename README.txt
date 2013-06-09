@@ -1,1 +1,4 @@
-Vedic Nerd 1.1 - Modified Manifest themeThis is a modified version of the 'Manifest' Wordpress theme that I'm using for my blog (http://vedicnerd.com/blog). The original theme is by Jim Barraud and can be found at  http://jimbarraud.com/manifest-Ganesh
+
+Vedic Nerd 1.1 - Modified Manifest theme
+
+This is a modified version of a minimalistic Wordpress theme called 'Manifest'(which is by Jim Barraud and can be found at  http://jimbarraud.com/manifest)
